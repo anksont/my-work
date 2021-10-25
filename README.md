@@ -1,3 +1,3 @@
-# my-works
+# my-work
 My Projects
-this is bike otimization Problem
+This is bike otimization Problem and some improvement in code is need to make it more optimize solution for the problem.
